@@ -13,7 +13,6 @@ This project is an automated WhatsApp bot that sends a daily "Word of the Day" t
   * Word meaning
   * Plural form
   * Example sentence
-  * Pronunciation guide
   * Conversation topic
   * Multiple-choice quiz questions
 * Stores all word information in Google Sheets.
@@ -64,7 +63,7 @@ This project is an automated WhatsApp bot that sends a daily "Word of the Day" t
 
 ## How to Use
 
-* The bot will automatically send the daily word to the configured WhatsApp number.
+* The bot will automatically send the daily word to the configured WhatsApp number(put your phone number in from in twilio).
 * Users can reply to the bot for grammar correction and explanations.
 * Check Google Sheets to see all words sent so far.
 
