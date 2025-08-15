@@ -1,7 +1,7 @@
 # Chatlish 
 # Word of the Day WhatsApp Bot with n8n
 
-This project is an automated WhatsApp bot that sends a daily "Word of the Day" to a specified WhatsApp number. The bot fetches new English words, generates conversation topics, quizzes, and pronunciation guides, stores the data in Google Sheets, and handles incoming messages for grammar correction using AI.
+This project is an automated WhatsApp bot that sends a daily "Word of the Day" to a specified WhatsApp number. The bot fetches new English words, generates conversation topics, and quizzes , stores the data in Google Sheets, and handles incoming messages for grammar correction using AI.
 
 ---
 
